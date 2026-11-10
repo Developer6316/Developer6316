@@ -2,7 +2,7 @@
 
 **Systems Engineer | AI/ML Developer | Hardware Hacker**
 
-I am a 17-year-old Computer Science Engineering student from Chennai. I don't just study tech—I build it. From deploying AI models on IBM Z mainframes to building custom 16S LFP battery packs for electric motorcycles, I combine deep hardware intuition with modern software intelligence.
+I am a Computer Science Engineering student from Chennai. I don't just study tech—I build it. From deploying AI models on IBM Z mainframes to building custom 16S LFP battery packs for electric motorcycles, I combine deep hardware intuition with modern software intelligence.
 
 - 🔭 **Currently Building:** [Ultron](https://github.com/Developer6316) — a fully offline, privacy-first local AI assistant.
 - 🏆 **Recent Milestone:** Deployed a Hybrid AI Fraud Detection system on IBM LinuxONE (s390x) for the **IBM Z Datathon 2026**.
